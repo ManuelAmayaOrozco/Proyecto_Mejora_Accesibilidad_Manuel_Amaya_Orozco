@@ -71,7 +71,7 @@ body {
 
 /* Sección bienvenida */
 .welcome-container {
-    padding: 40px;
+    padding: 80px;
     background-color: #fff;
     display: flex;
     flex-direction: column;
@@ -82,19 +82,19 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
-    max-width: 1200px;
+    width: 200%;
+    max-width: 1500px;
     margin-bottom: 40px;
 }
 
 .welcome-text {
     flex: 1;
-    max-width: 50%;
-    padding-right: 20px;
+    max-width: 100%;
+    padding-right: 100px;
 }
 
 .welcome-heading {
-    font-size: 36px;
+    font-size: 70px;
     margin-bottom: 20px;
 }
 
@@ -105,7 +105,7 @@ body {
 
 .welcome-image img {
     max-width: 100%;
-    height: auto;
+    height: 500px;
     border-radius: 10px;
 }
 
@@ -118,7 +118,7 @@ body {
 }
 
 .featured-heading {
-    font-size: 30px;
+    font-size: 50px;
     margin-bottom: 20px;
 }
 
